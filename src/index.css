@@ -6,4 +6,5 @@ body {
   background-color: #0d0d0d;
   color: #ffffff;
   font-family: 'Inter', sans-serif;
+   cursor: url('/bitcoin.svg') 16 16, auto;
 }
